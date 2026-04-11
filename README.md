@@ -1,6 +1,8 @@
-# Sample Snack app
+Contém os exercícios:
+App 04: Alcool ou Gasolina
+App 08: Vagas de emprego de TI (com Scroll View)
+App 09: Vagas de emprego de TI (com Flat List)
+App 10: Formulário de abertura de conta bancária
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Para testar, acessso o app: https://docs.expo.dev/get-started/installation/#expo-cli.
 
